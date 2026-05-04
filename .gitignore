@@ -24,9 +24,9 @@ nbdist/
 .nb-gradle/
 
 ### Other Files ###
-maven-wrapper.jar
-maven-wrapper.properties
-mvnw
-mvnw.cmd
+#maven-wrapper.jar
+#maven-wrapper.properties
+#mvnw
+#mvnw.cmd
 
 .claude
